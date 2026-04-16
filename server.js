@@ -880,4 +880,4 @@ function checkNotAuthenticated(req, res, next) {
 
 app.listen(4000, () => {
   logger("Server is running on port 4000")
-}).
+})
